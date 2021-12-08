@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerifyEfExample.Api", "VerifyEfExample.Api\VerifyEfExample.Api.csproj", "{001CEB90-9A55-4617-8CE8-4E929D64549C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerifyEfExample.Tests", "VerifyEfExample.Tests\VerifyEfExample.Tests.csproj", "{DE3601FD-EC50-4127-BE1C-E5FB8770B0D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{001CEB90-9A55-4617-8CE8-4E929D64549C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{001CEB90-9A55-4617-8CE8-4E929D64549C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{001CEB90-9A55-4617-8CE8-4E929D64549C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{001CEB90-9A55-4617-8CE8-4E929D64549C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE3601FD-EC50-4127-BE1C-E5FB8770B0D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE3601FD-EC50-4127-BE1C-E5FB8770B0D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE3601FD-EC50-4127-BE1C-E5FB8770B0D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE3601FD-EC50-4127-BE1C-E5FB8770B0D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
